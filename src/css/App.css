@@ -1,0 +1,17 @@
+.search-bar {
+    padding: 30px 0px;
+}
+
+.label-text {
+    font-size: 20px;
+}
+
+.image-list {
+    columns: 6 200px;
+    column-gap: 10px;
+}
+
+img {
+    width: 100%;
+    margin-bottom: 10px;
+}
